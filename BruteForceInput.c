@@ -31,3 +31,4 @@ int main()
   printf("The phrase is: %s\nTotal Guesses: %i",myGuessed,totalGuesses);
   return 0;
 }
+//Inspired by https://preview.redd.it/qk435uksis191.gif?format=mp4&s=bd12170d0ac6708538bc581aa46f9150550c6b2c
